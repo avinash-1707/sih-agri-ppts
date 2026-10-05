@@ -4,6 +4,8 @@ Index of public Smart India Hackathon decks on farming / agriculture. The decks 
 
 ## Saved PDFs (`files/`)
 
+GitHub's built-in PDF preview often fails on these image-based files. Download them instead: open the file and click the download icon, or use "Download raw file".
+
 | PDF | Year / PS | What it builds | Pages | Source |
 |---|---|---|---|---|
 | AgriNexa-AIoT-RiceFarm-SIH25099 | 2025 / 25099 | Rice-farm IoT sensors + LSTM, YOLO, XGBoost, KNN, CNN fused in one decision engine, energy-aware irrigation | 8 | https://www.slideshare.net/slideshow/smart-india-hackothaon-winning-ppt-for-the-2026/284297693 |
